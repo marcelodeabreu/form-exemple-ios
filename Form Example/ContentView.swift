@@ -15,7 +15,7 @@ struct ContentView: View {
     // USER AVATAR VARS
     @State private var userProfilePicture: PhotosPickerItem?
     @State private var userProfilePictureObject: UIImage?
-   
+
     
     // USERNAME VARS
     
