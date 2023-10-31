@@ -4,7 +4,7 @@
 
 
 Simple Form example designed in newest Apple framework SwiftUI. This project consists in just one ContentView file with the purpose of demonstrating specific skills that are notable inside the projetc.
-The main project components are:
+The main project demonstrations are:
 1.  Username, E-mail and Password (strong password) requeriments check.
 2.  Selectable image from inside the users personal device for User Profile Image.
 3.  Personal information from the user such as Name and Date of Birth.
