@@ -1,5 +1,6 @@
 [PORTUGUÊS ABAIXO]
 
+![alt text](https://github.com/[marcelodeabreu]/[form-example-ios]/blob/[main]/formExampleSS.png?raw=true)
 
 Simple Form example designed in newest Apple framework SwiftUI. This project consists in just one ContentView file with the purpose of demonstrating specific skills that are notable inside the projetc.
 The main project components are:
