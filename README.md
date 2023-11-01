@@ -7,7 +7,7 @@ Simple Form example designed in newest Apple framework SwiftUI. This project con
 The main project demonstrations are:
 1.  Username, E-mail and Password (strong password) requeriments check.
 2.  Selectable image from inside the users personal device for User Profile Image.
-3.  Personal information from the user such as Name and Date of Birth with datePicker.
+3.  Personal information from the user such as Name and Date of Birth with DatePicker.
 4.  E-mail subscription for receiving news and updates.
 
 
@@ -19,5 +19,5 @@ Formulário simples escrito no mais novo framework da Apple, SwiftUI. Esse proje
 Os principais componentes são:
 1. Checagem de requisitos mínimos para o Nome de Usuário, E-mail e Senha (senha forte).
 2. Customização da Imagem do Usuário com foto selecionável do seu dispositivo.
-3. Informações pessoais do usuário como Nome e Data de Nascimento com o datePicker.
+3. Informações pessoais do usuário como Nome e Data de Nascimento com o DatePicker.
 4. Assinatura de e-mail para receber informações sobre atualizações e novas versões. 
